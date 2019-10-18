@@ -7,7 +7,7 @@ import { ExpandOnClick } from "../components/ExpandOnClick";
 export function Day_10_17() {
   return (
     <>
-      <h1>A Component Show Room</h1>
+      <h1>Component Show Room</h1>
       <h3>No. 1</h3> the <code>RepeatedImage</code> component.
       <RepeatedImage
         imgSrc={katze}

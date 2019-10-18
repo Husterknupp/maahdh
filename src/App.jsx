@@ -201,7 +201,7 @@ export class App extends Component {
           onBackClick={this.handleBackClick}
           onHomeClick={this.handleHomeClick}
         />
-        <Content dayOfMonth={day} month={month} />
+        <Content dayOfMonth={'17'} month={'10'} />
         <Footer />
       </div>
     );
