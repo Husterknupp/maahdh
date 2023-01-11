@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://husterknupp.github.io/maahdh/",
   "dependencies": {
-    "luxon": "~1.11.2",
+    "luxon": "~1.28.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-scripts": "2.1.3"
